@@ -45,47 +45,33 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```csharp
-namespace Developer.Profile
-{
-    public class ArtemiosSologan : DotNetDeveloper, IPassionate
-    {
-        // Current Position
-        public string CurrentRole => "Intern at MAIB Bank 🏦";
-        public string Practice => "Ministry of Finance, Moldova 🏛️";
-        public string Status => "🔥 Open to .NET Developer Opportunities";
-        
-        // Core Specializations
-        public IEnumerable<string> Expertise => new[]
-        {
-            "ASP.NET Core Web API",
-            "Blazor (Server & WebAssembly)",
-            "Microservices Architecture",
-            "Clean Architecture & Domain-Driven Design"
-        };
-        
-        // Professional Journey
-        public WorkExperience Experience => new()
-        {
-            YearsOfExperience = 1,
-            Companies = new[] { "Endava", "CODEWER" },
-            TechStack = "C#, .NET Core, Blazor, Docker, PostgreSQL",
-            Achievements = "Building SPAs, REST APIs, CI/CD Pipelines"
-        };
-        
-        // Development Philosophy
-        public string Approach => "Write clean, testable, maintainable code";
-        public IEnumerable<string> Principles => new[]
-        {
-            "SOLID", "DRY", "KISS", "YAGNI"
-        };
-        
-        // What drives me
-        public string Passion => 
-            "Solving complex problems with elegant solutions 🚀";
-    }
-}
-```
+### 🚀 Hi, I'm Artemios Sologan!
+
+I'm a passionate **.NET Developer** with **1+ year of experience** building scalable web applications. Currently working at **MAIB Bank** as an intern and gaining practical experience at the **Ministry of Finance, Moldova**.
+
+#### 💼 Current Status
+- 🏦 **Software Development Intern** at MAIB Bank
+- 🏛️ **Practical Training** at Ministry of Finance, Moldova
+- 🔥 **Actively seeking** .NET Developer opportunities
+
+#### 🎯 Core Specializations
+- **ASP.NET Core Web API** - Building robust backend services
+- **Blazor** (Server & WebAssembly) - Creating modern SPAs
+- **Microservices Architecture** - Designing scalable distributed systems
+- **Clean Architecture & Domain-Driven Design** - Writing maintainable code
+
+#### 💻 Professional Journey
+- **Experience:** 1+ year in .NET development
+- **Companies:** Endava, CODEWER
+- **Tech Stack:** C#, .NET Core, Blazor, Docker, PostgreSQL, Redis, RabbitMQ
+- **Focus:** Building SPAs, REST APIs, CI/CD Pipelines
+
+#### 🎨 Development Philosophy
+- **Approach:** Write clean, testable, maintainable code
+- **Principles:** SOLID, DRY, KISS, YAGNI
+- **Passion:** Solving complex problems with elegant solutions 🚀
+
+<br clear="right"/>
 
 ### 🎯 Current Focus
 
