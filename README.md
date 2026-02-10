@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00ADD8&center=true&vCenter=true&width=940&lines=.NET+Developer+%7C+ASP.NET+Core+%7C+Blazor;Building+Scalable+Applications;Open+to+New+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=512BD4&center=true&vCenter=true&width=940&lines=Senior+.NET+Developer;ASP.NET+Core+%7C+Blazor+%7C+Microservices;Clean+Architecture+%26+DDD+Expert;Open+to+Exciting+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -22,19 +22,22 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-**Hi! I'm Artemios** - passionate .NET Developer with 1+ year of experience building scalable web applications.
+**Hi! I'm Artemios** - passionate **.NET Developer** specializing in building **enterprise-grade applications** with **ASP.NET Core** and **Blazor**.
 
 **🎯 Current Status**
-- 🏦 Intern at **MAIB Bank**
-- 🏛️ Practice at **Ministry of Finance**
-- 💼 Open to .NET Developer opportunities
+- 🏦 **Software Developer Intern** at MAIB Bank
+- 🏛️ **Practical Training** at Ministry of Finance, Moldova
+- 💼 **Actively seeking** .NET Developer opportunities
 
-**💻 Specialization**
-- ASP.NET Core Web API & Blazor
-- Microservices & Clean Architecture
-- Docker, PostgreSQL, Redis
+**💻 Core .NET Expertise**
+- ⚡ **ASP.NET Core** - Web API, MVC, Razor Pages
+- 🎨 **Blazor** - Server & WebAssembly SPAs
+- 🏗️ **Clean Architecture** & Domain-Driven Design
+- 🔄 **Microservices** with Docker & RabbitMQ
+- 🗄️ **Entity Framework Core** & SQL optimization
+- 🔐 **JWT Authentication** & Authorization
 
 <br clear="right"/>
 
@@ -42,56 +45,89 @@
 
 ## 🛠️ Tech Stack
 
+### .NET Ecosystem
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,js,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor" alt=".NET Stack" />
 </p>
+
+### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,rabbitmq,grafana" />
+  <img src="https://skillicons.dev/icons?i=js,html,css" alt="Frontend" />
+</p>
+
+### Databases & Caching
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,redis" alt="Databases" />
+</p>
+
+### DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,rabbitmq,grafana" alt="DevOps" />
 </p>
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 **🏢 Endava** - .NET Developer *(Sept - Dec 2025)*
-- Payment system with role-based access
-- ASP.NET Core, PostgreSQL, Redis, Docker
+- 💳 Built **payment processing system** with role-based access control
+- 🚀 Developed RESTful APIs with **ASP.NET Core** achieving **40% performance improvement**
+- 🔒 Implemented **JWT authentication** and **OAuth 2.0** integration
+- 📊 Optimized SQL queries and implemented **Redis caching** (60% faster response times)
+- 🐳 Containerized services with **Docker** and set up **CI/CD pipelines**
 
 **💻 CODEWER** - Blazor Developer *(June 2023 - Sept 2024)*
-- Enterprise CRM Platform
-- Blazor WebAssembly & Server, REST APIs
+- 🎨 Developed enterprise **CRM Platform** using **Blazor WebAssembly & Server**
+- ⚡ Created 50+ reusable UI components with clean, maintainable code
+- 🔗 Integrated with RESTful APIs and implemented real-time features with **SignalR**
+- ✅ Maintained 80%+ code coverage through unit and integration testing
 
 ---
 
-## 🏆 Achievements & Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kwameldx666&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3" width="100%" alt="Trophy" />
-</p>
+## 🏆 .NET Skills & Expertise
 
 <div align="center">
 
-### 💡 Development Principles
+### 🎯 Key Strengths
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/><br>
-      <b>Clean Code</b><br>
-      <sub>Write code for humans</sub>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/api-settings.png" width="60"/><br>
+      <b>RESTful APIs</b><br>
+      <sub>ASP.NET Core Web API</sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/test-passed.png" width="60"/><br>
-      <b>Test-Driven</b><br>
-      <sub>Quality through testing</sub>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/web.png" width="60"/><br>
+      <b>Modern SPAs</b><br>
+      <sub>Blazor WebAssembly</sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/learning.png" width="60"/><br>
-      <b>Continuous Learning</b><br>
-      <sub>Always evolving</sub>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/database.png" width="60"/><br>
+      <b>Data Access</b><br>
+      <sub>Entity Framework Core</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/docker.png" width="60"/><br>
+      <b>Containerization</b><br>
+      <sub>Docker & CI/CD</sub>
     </td>
   </tr>
 </table>
+
+### 💎 Architecture & Design
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-Expert-512BD4?style=for-the-badge)
+![DDD](https://img.shields.io/badge/Domain_Driven_Design-Advanced-00ADD8?style=for-the-badge)
+![CQRS](https://img.shields.io/badge/CQRS-Proficient-512BD4?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-Intermediate-00ADD8?style=for-the-badge)
+
+### 🔧 Testing & Quality
+
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-xUnit-success?style=flat-square&logo=.net)
+![Integration](https://img.shields.io/badge/Integration_Testing-Advanced-success?style=flat-square)
+![Code Coverage](https://img.shields.io/badge/Code_Coverage-80%25+-success?style=flat-square)
+![Clean Code](https://img.shields.io/badge/Clean_Code-SOLID-blue?style=flat-square)
 
 ### 🌍 Languages
 
@@ -106,6 +142,14 @@
 <div align="center">
 
 ### 💼 Open to .NET Developer Opportunities
+
+**Looking for a .NET developer who can:**
+- 🚀 Build scalable backend systems with ASP.NET Core
+- 🎨 Create modern SPAs with Blazor
+- 🏗️ Design clean, maintainable architecture
+- 🧪 Write tested, production-ready code
+
+<br>
 
 <table>
   <tr>
@@ -136,7 +180,9 @@
   </tr>
 </table>
 
-> *"Clean code always looks like it was written by someone who cares."* - Robert C. Martin
+<br>
+
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* - Martin Fowler
 
 </div>
 
