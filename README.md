@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/artemios-sologan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/artemios-sologan-80125b314/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ashologan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="tel:+37368842573"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://github.com/Kwameldx666"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -43,7 +43,10 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,js,postgres,redis,docker,git,github,githubactions,rabbitmq,grafana" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,js,postgres,redis" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,rabbitmq,grafana" />
 </p>
 
 ---
@@ -60,28 +63,41 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kwameldx666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kwameldx666&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kwameldx666&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
+## 🏆 Achievements & Highlights
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kwameldx666&theme=tokyo-night&hide_border=true&area=true" width="98%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kwameldx666&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3" width="100%" alt="Trophy" />
 </p>
 
----
+<div align="center">
 
-## 🎓 Education
+### 💡 Development Principles
 
-**Technical University of Moldova** - BSc in Information Technology *(Expected 2026)*
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/><br>
+      <b>Clean Code</b><br>
+      <sub>Write code for humans</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/test-passed.png" width="60"/><br>
+      <b>Test-Driven</b><br>
+      <sub>Quality through testing</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/learning.png" width="60"/><br>
+      <b>Continuous Learning</b><br>
+      <sub>Always evolving</sub>
+    </td>
+  </tr>
+</table>
 
-**Languages:** 🇷🇺 Russian (Native) • 🇬🇧 English (B1) • 🇷🇴 Romanian (A2)
+### 🌍 Languages
+
+🇷🇺 **Russian** (Native) • 🇬🇧 **English** (B1) • 🇷🇴 **Romanian** (A2)
+
+</div>
 
 ---
 
@@ -100,7 +116,7 @@
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://linkedin.com/in/artemios-sologan">
+      <a href="https://www.linkedin.com/in/artemios-sologan-80125b314/">
         <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="50"/><br>
         <b>LinkedIn</b>
       </a>
