@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me
 
 ```csharp
-public class ArtemiiosSologan : DotNetDeveloper
+public class ArtemiosSologan : DotNetDeveloper
 {
     public string CurrentPosition => "Intern at MAIB Bank";
     public string Practice => "Ministry of Finance, Moldova";
