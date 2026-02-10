@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=512BD4&center=true&vCenter=true&width=940&lines=Senior+.NET+Developer;ASP.NET+Core+%7C+Blazor+%7C+Microservices;Clean+Architecture+%26+DDD+Expert;Open+to+Exciting+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=512BD4&center=true&vCenter=true&width=940&lines=.NET+Developer;ASP.NET+Core+%7C+Blazor+%7C+Microservices;Building+Clean+%26+Scalable+Solutions;Open+to+New+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -24,20 +24,20 @@
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-**Hi! I'm Artemios** - passionate **.NET Developer** specializing in building **enterprise-grade applications** with **ASP.NET Core** and **Blazor**.
+**Hi! I'm Artemios** - a dedicated **.NET Developer** with a passion for building **quality applications** using **ASP.NET Core** and **Blazor**.
 
 **🎯 Current Status**
 - 🏦 **Software Developer Intern** at MAIB Bank
 - 🏛️ **Practical Training** at Ministry of Finance, Moldova
-- 💼 **Actively seeking** .NET Developer opportunities
+- 💼 **Seeking** .NET Developer opportunities
 
-**💻 Core .NET Expertise**
+**💻 Technical Skills**
 - ⚡ **ASP.NET Core** - Web API, MVC, Razor Pages
 - 🎨 **Blazor** - Server & WebAssembly SPAs
-- 🏗️ **Clean Architecture** & Domain-Driven Design
-- 🔄 **Microservices** with Docker & RabbitMQ
-- 🗄️ **Entity Framework Core** & SQL optimization
-- 🔐 **JWT Authentication** & Authorization
+- 🏗️ **Clean Architecture** & Domain-Driven Design principles
+- 🔄 **Microservices** architecture with Docker & RabbitMQ
+- 🗄️ **Entity Framework Core** & database optimization
+- 🔐 **Authentication & Authorization** (JWT, OAuth 2.0)
 
 <br clear="right"/>
 
@@ -70,25 +70,25 @@
 ## 💼 Professional Experience
 
 **🏢 Endava** - .NET Developer *(Sept - Dec 2025)*
-- 💳 Built **payment processing system** with role-based access control
-- 🚀 Developed RESTful APIs with **ASP.NET Core** achieving **40% performance improvement**
+- 💳 Developed **payment processing system** with role-based access control
+- 🚀 Built RESTful APIs with **ASP.NET Core** and improved performance metrics
 - 🔒 Implemented **JWT authentication** and **OAuth 2.0** integration
-- 📊 Optimized SQL queries and implemented **Redis caching** (60% faster response times)
-- 🐳 Containerized services with **Docker** and set up **CI/CD pipelines**
+- 📊 Optimized SQL queries and integrated **Redis caching** for better response times
+- 🐳 Containerized services with **Docker** and contributed to **CI/CD pipelines**
 
 **💻 CODEWER** - Blazor Developer *(June 2023 - Sept 2024)*
-- 🎨 Developed enterprise **CRM Platform** using **Blazor WebAssembly & Server**
-- ⚡ Created 50+ reusable UI components with clean, maintainable code
-- 🔗 Integrated with RESTful APIs and implemented real-time features with **SignalR**
-- ✅ Maintained 80%+ code coverage through unit and integration testing
+- 🎨 Contributed to enterprise **CRM Platform** using **Blazor WebAssembly & Server**
+- ⚡ Built reusable UI components following clean code principles
+- 🔗 Integrated with RESTful APIs and implemented real-time features using **SignalR**
+- ✅ Wrote unit and integration tests to ensure code quality
 
 ---
 
-## 🏆 .NET Skills & Expertise
+## 🏆 Skills & Technologies
 
 <div align="center">
 
-### 🎯 Key Strengths
+### 🎯 Core Competencies
 
 <table>
   <tr>
@@ -109,25 +109,25 @@
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/docker.png" width="60"/><br>
-      <b>Containerization</b><br>
+      <b>DevOps</b><br>
       <sub>Docker & CI/CD</sub>
     </td>
   </tr>
 </table>
 
-### 💎 Architecture & Design
+### 💎 Architecture & Design Patterns
 
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-Expert-512BD4?style=for-the-badge)
-![DDD](https://img.shields.io/badge/Domain_Driven_Design-Advanced-00ADD8?style=for-the-badge)
-![CQRS](https://img.shields.io/badge/CQRS-Proficient-512BD4?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-Proficient-512BD4?style=for-the-badge)
+![DDD](https://img.shields.io/badge/Domain_Driven_Design-Learning-00ADD8?style=for-the-badge)
+![CQRS](https://img.shields.io/badge/CQRS-Familiar-512BD4?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-Intermediate-00ADD8?style=for-the-badge)
 
-### 🔧 Testing & Quality
+### 🔧 Testing & Quality Practices
 
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-xUnit-success?style=flat-square&logo=.net)
-![Integration](https://img.shields.io/badge/Integration_Testing-Advanced-success?style=flat-square)
-![Code Coverage](https://img.shields.io/badge/Code_Coverage-80%25+-success?style=flat-square)
-![Clean Code](https://img.shields.io/badge/Clean_Code-SOLID-blue?style=flat-square)
+![Integration](https://img.shields.io/badge/Integration_Testing-Proficient-success?style=flat-square)
+![Code Quality](https://img.shields.io/badge/Code_Quality-SOLID_Principles-blue?style=flat-square)
+![Best Practices](https://img.shields.io/badge/Best_Practices-Clean_Code-blue?style=flat-square)
 
 ### 🌍 Languages
 
@@ -143,11 +143,11 @@
 
 ### 💼 Open to .NET Developer Opportunities
 
-**Looking for a .NET developer who can:**
-- 🚀 Build scalable backend systems with ASP.NET Core
-- 🎨 Create modern SPAs with Blazor
-- 🏗️ Design clean, maintainable architecture
-- 🧪 Write tested, production-ready code
+**I'm interested in roles where I can:**
+- 🚀 Develop backend systems with ASP.NET Core
+- 🎨 Build modern web applications with Blazor
+- 🏗️ Apply clean architecture principles
+- 🧪 Contribute to well-tested, maintainable codebases
 
 <br>
 
