@@ -131,7 +131,7 @@
 
 ### 🌍 Languages
 
-🇷🇺 **Russian** (Native) • 🇬🇧 **English** (B1) • 🇷🇴 **Romanian** (A2)
+🇷🇺 **Russian** (Native) • 🇬🇧 **English** (B2) • 🇷🇴 **Romanian** (B1)
 
 </div>
 
