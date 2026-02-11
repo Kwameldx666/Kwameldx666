@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=512BD4&center=true&vCenter=true&width=940&lines=Senior+.NET+Developer;ASP.NET+Core+%7C+Blazor+%7C+Microservices;Clean+Architecture+%26+DDD+Expert;Open+to+Exciting+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=512BD4&center=true&vCenter=true&width=940&lines=.NET+Develope;Open+to+Exciting+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <p align="center">
